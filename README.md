@@ -44,8 +44,6 @@ Replace `<path_to_input_image>` with the path to your black and white image.
 
 Here are some examples of colorized images produced by this algorithm:
 
-![Original Image](images/einstein.jpg) ![Colorized Image](images/einstein1.jpg)
-
 <!-- Original and Colorized Images -->
 <p align="center">
   <img src="images/einstein.jpg" alt="Original Image" width="400" style="margin-right: 20px;" />
