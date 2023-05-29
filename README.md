@@ -23,9 +23,9 @@ To use this project, you need to set up the following:
 pip install numpy opencv-python
 ```
 3. Pre-trained model and configuration files: Download the pre-trained model and its configuration files from the following link and place them in the `model` directory of this project:
- - 1. colorization_deploy_v2.prototxt: https://github.com/richzhang/colorization/tree/caffe/colorization/models
- - 2. pts_in_hull.npy: https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
- - 3. colorization_release_v2.caffemodel: https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
+ - colorization_deploy_v2.prototxt: https://github.com/richzhang/colorization/tree/caffe/colorization/models
+ - pts_in_hull.npy: https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
+ - colorization_release_v2.caffemodel: https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
 
 ## Usage
 
@@ -50,4 +50,5 @@ Here are some examples of colorized images produced by this algorithm:
   <img src="images/einstein1.jpg" alt="Colorized Image" width="400" />
 </p>
 
-> The project is inspired from http://richzhang.github.io/colorization/
+> Credits:
+> This project is inspired from http://richzhang.github.io/colorization/
