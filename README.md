@@ -46,4 +46,10 @@ Here are some examples of colorized images produced by this algorithm:
 
 ![Original Image](images/einstein.jpg) ![Colorized Image](images/einstein1.jpg)
 
+<!-- Original and Colorized Images -->
+<p align="center">
+  <img src="images/einstein.jpg" alt="Original Image" width="400" style="margin-right: 20px;" />
+  <img src="images/einstein1.jpg" alt="Colorized Image" width="400" />
+</p>
+
 > The project is inspired from http://richzhang.github.io/colorization/
