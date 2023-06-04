@@ -38,6 +38,7 @@ To colorize a black and white image, follow these steps:
 python colorize_image.py -i <path_to_input_image>
 ```
 Replace `<path_to_input_image>` with the path to your black and white image.
+
 4. The colorized image will be displayed in a new window.
 
 ## Results
